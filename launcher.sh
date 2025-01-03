@@ -4,6 +4,6 @@
 # este scrpt de python. Por ultimo vuelta al dir principal
 
 cd /
-cd /home/pi/SADSOr
-sudo python sadsor.py
+cd /home/cto/SADSOr/src
+python sadsor.py
 cd /

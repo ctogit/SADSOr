@@ -1,0 +1,1404 @@
+2024-12-12 12:10:11,865 - INFO -  ****************** Arranque del sistema *******************
+2024-12-12 12:10:22,283 - INFO -  Equipo seleccionado: SEOE-TEST
+2024-12-12 12:10:23,773 - INFO -  Cabezal seleccionado: Serie 805
+2024-12-12 12:10:24,394 - INFO -  Nivel de señal BT: 30 :-)
+2024-12-12 12:01:00,019 - INFO -  Se actualizó fecha y hora
+2024-12-12 12:01:01,621 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:01:08,632 - CRITICAL - Recibiendo y guardando datos en: MS99_datos_20241212_150108 ...
+2024-12-12 12:01:08,639 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:18,083 - INFO -  Generando gráfico: MS99_datos_20241212_150108.pdf
+2024-12-12 12:01:27,569 - INFO -  Fin del proceso.
+2024-12-12 12:01:34,579 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:01:41,590 - CRITICAL - Recibiendo y guardando datos en: MS99_datos_20241212_150141 ...
+2024-12-12 12:01:48,649 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,657 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,658 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,660 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,681 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,683 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,685 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,686 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,687 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,717 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,718 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,720 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,721 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,722 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,723 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,724 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,753 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,754 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,756 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,757 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,758 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,760 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,763 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,764 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,788 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,789 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,791 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,793 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,794 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,795 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,823 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,825 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,827 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,828 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,829 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,832 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,834 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,835 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,862 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,864 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,866 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,867 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,868 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,869 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,870 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,898 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,899 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,900 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,901 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,902 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,903 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,933 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,934 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,935 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,936 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,937 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,938 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,971 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,973 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,974 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,975 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,977 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,978 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,980 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,981 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,983 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,984 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,988 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:48,989 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:49,013 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:49,014 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:49,015 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:49,017 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:49,018 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:49,048 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:49,049 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:49,051 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:49,052 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:05,698 - INFO -  Generando gráfico: MS99_datos_20241212_150141.pdf
+2024-12-12 12:02:12,806 - INFO -  Fin del proceso.
+2024-12-12 12:02:19,816 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:08:49,910 - INFO -  ****************** Arranque del sistema *******************
+2024-12-12 12:08:58,532 - INFO -  Equipo seleccionado: SEOE-TEST
+2024-12-12 12:08:59,894 - INFO -  Cabezal seleccionado: Serie 805
+2024-12-12 12:09:03,412 - INFO -  Nivel de señal BT: 30 :-)
+2024-12-12 12:01:00,012 - INFO -  Se actualizó fecha y hora
+2024-12-12 12:01:01,759 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:01:05,766 - CRITICAL - Recibiendo y guardando datos en: MS99_datos_20241212_150105 ...
+2024-12-12 12:01:12,227 - INFO -  Generando gráfico: MS99_datos_20241212_150105.pdf
+2024-12-12 12:01:19,261 - INFO -  Fin del proceso.
+2024-12-12 12:01:26,271 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:01:56,362 - WARNING -  Desconectado :-(
+2024-12-12 12:02:17,403 - INFO -  Nivel de señal BT: 30 :-)
+2024-12-12 12:02:20,360 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:05:31,760 - INFO -  ****************** Arranque del sistema *******************
+2024-12-12 12:05:37,719 - INFO -  Equipo seleccionado: SEOE-TEST
+2024-12-12 12:05:38,833 - INFO -  Cabezal seleccionado: Serie 805
+2024-12-12 12:05:39,136 - WARNING -  Desconectado :-(
+2024-12-12 12:07:00,413 - INFO -  ****************** Arranque del sistema *******************
+2024-12-12 12:07:04,536 - INFO -  Equipo seleccionado: SEOE-TEST
+2024-12-12 12:07:05,836 - INFO -  Cabezal seleccionado: Serie 805
+2024-12-12 12:07:09,790 - INFO -  Nivel de señal BT: 30 :-)
+2024-12-12 12:01:00,011 - INFO -  Se actualizó fecha y hora
+2024-12-12 12:01:00,856 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:01:06,865 - CRITICAL - Recibiendo y guardando datos en: MS99_datos_20241212_150106 ...
+2024-12-12 12:01:06,873 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:01:12,928 - INFO -  Generando gráfico: MS99_datos_20241212_150106.pdf
+2024-12-12 12:01:20,146 - INFO -  Fin del proceso.
+2024-12-12 12:01:27,157 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:02:00,268 - WARNING -  Desconectado :-(
+2024-12-12 12:02:15,269 - INFO -  Nivel de señal BT: 30 :-)
+2024-12-12 12:02:18,236 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:02:25,244 - CRITICAL - Recibiendo y guardando datos en: MS99_datos_20241212_150225 ...
+2024-12-12 12:02:26,576 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,578 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,579 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,610 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,612 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,613 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,614 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,616 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,645 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,647 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,648 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,649 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,651 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,652 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,654 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,655 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,656 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,681 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,683 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,685 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,686 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,687 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,691 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,693 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,694 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,716 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,718 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,719 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,721 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,722 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,751 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,753 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,754 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,755 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,757 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,758 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,759 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,788 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,789 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,790 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,792 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,794 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,795 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,797 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,800 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,831 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,833 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,834 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,835 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,836 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,837 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,838 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,839 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,866 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,868 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,869 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,869 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,871 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,871 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,873 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,874 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,902 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,904 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,905 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,906 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,907 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,913 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,914 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,938 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,939 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,940 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,942 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,946 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,948 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,971 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,973 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,974 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:26,976 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,418 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,450 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,452 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,455 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,456 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,457 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,458 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,460 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,463 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,487 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,488 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,489 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,490 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,493 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,495 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,496 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,521 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,524 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,527 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,528 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,529 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,530 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,531 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,558 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,559 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,560 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,561 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,562 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,563 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,564 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,594 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,595 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,596 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,597 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,598 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,599 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,604 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,605 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,607 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,629 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,630 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,631 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,632 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,634 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,635 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,664 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,665 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,667 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,668 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,669 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,671 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,700 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,701 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,703 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,704 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,706 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,707 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,739 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,740 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,742 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,743 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,744 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,745 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,747 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,749 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,751 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,752 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,754 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,775 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,777 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,778 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,779 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,782 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,783 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,810 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,812 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,814 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,815 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:43,817 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:46,571 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:02:46,573 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,269 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,271 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,274 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,303 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,306 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,308 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,309 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,310 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,311 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,312 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,313 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,339 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,340 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,341 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,342 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,343 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,344 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,374 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,375 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,376 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,377 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,378 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,410 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,411 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,413 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,414 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,416 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,417 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,418 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,420 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,422 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,423 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,424 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,447 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,448 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,449 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,451 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,452 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,456 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,458 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,489 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,490 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,492 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,493 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,494 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,496 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,498 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,505 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,506 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,507 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,530 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,532 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,535 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,537 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,538 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,566 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,568 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,570 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,571 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,572 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,572 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,575 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,577 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,578 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,600 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,602 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,603 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,604 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,605 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,635 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,636 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,637 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,639 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,640 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,641 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,642 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,672 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:00,673 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,100 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,102 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,133 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,134 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,136 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,137 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,138 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,140 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,144 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,169 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,171 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,173 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,174 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,175 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,177 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,205 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,206 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,208 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,209 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,211 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,213 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,239 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,241 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,243 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,245 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,247 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,248 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,249 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,250 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,251 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,252 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,275 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,278 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,281 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,282 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,283 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,284 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,311 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,312 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,313 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,314 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,315 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,316 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,320 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,345 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,347 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,348 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,349 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,349 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,350 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,380 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,382 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,383 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,384 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,385 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,386 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,391 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,392 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,394 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,415 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,416 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,418 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,419 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,421 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,428 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,429 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,453 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,454 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,456 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,457 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,459 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,488 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,489 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,491 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,492 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,494 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,495 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:17,496 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:33,973 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:33,975 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:33,976 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:33,978 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:33,980 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:33,981 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:33,983 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:33,984 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:33,985 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,009 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,011 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,012 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,013 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,016 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,019 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,022 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,024 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,044 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,046 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,048 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,049 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,050 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,055 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,056 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,080 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,081 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,082 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,084 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,087 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,089 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,114 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,116 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,119 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,121 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,122 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,150 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,152 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,153 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,154 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,155 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,156 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,157 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,158 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,166 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,167 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,169 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,190 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,192 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,193 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,194 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,196 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,201 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,202 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,225 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,227 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,228 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,230 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,231 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,232 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,263 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,265 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,266 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,267 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,268 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,271 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,272 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,274 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,303 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,305 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,306 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,307 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,309 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,310 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,312 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,343 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,345 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,347 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:34,348 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,807 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,811 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,813 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,814 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,815 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,817 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,818 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,842 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,844 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,845 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,846 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,847 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,848 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,851 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,852 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,883 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,884 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,886 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,887 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,889 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,891 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,892 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,894 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,923 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,925 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,927 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,928 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,929 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,931 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,932 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,963 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,965 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,966 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,968 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,970 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,971 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,972 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:50,975 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,000 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,002 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,003 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,004 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,008 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,010 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,013 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,014 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,046 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,047 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,048 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,049 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,051 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,052 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,053 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,055 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,082 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,083 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,085 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,086 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,088 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,089 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,090 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,118 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,120 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,121 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,122 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,123 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,125 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,128 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,129 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,131 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,153 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,155 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,156 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,158 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,159 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,188 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,190 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,192 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:03:51,193 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,627 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,660 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,661 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,663 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,664 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,665 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,668 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,669 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,670 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,702 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,705 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,707 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,709 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,709 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,711 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,711 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,739 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,742 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,744 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,745 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,746 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,747 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,748 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,749 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,774 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,776 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,777 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,778 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,779 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,780 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,808 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,809 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,810 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,812 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,813 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,813 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,814 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,816 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,844 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,846 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,847 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,848 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,849 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,850 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,879 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,881 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,882 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,883 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,885 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,886 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,887 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,916 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,917 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,919 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,920 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,921 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,922 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,924 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,925 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,956 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,958 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,959 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,960 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,962 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,963 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,964 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,965 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,995 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,996 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,997 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:07,999 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:08,001 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:08,002 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:08,004 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:08,031 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:08,033 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:08,035 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:08,036 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,489 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,491 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,493 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,496 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,497 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,498 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,525 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,527 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,529 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,530 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,531 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,534 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,536 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,566 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,568 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,569 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,570 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,571 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,572 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,573 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,574 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,606 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,607 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,608 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,610 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,611 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,613 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,614 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,615 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,642 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,644 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,645 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,646 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,648 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,649 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,650 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,679 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,680 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,681 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,682 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,684 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,685 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,713 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,715 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,717 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,718 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,720 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,721 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,722 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,723 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,750 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,751 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,753 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,754 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,755 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,757 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,758 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,760 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,788 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,790 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,792 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,794 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,795 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,798 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,800 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,826 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,828 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,830 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,832 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,834 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,835 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,861 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,865 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,866 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,867 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,868 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,869 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:24,870 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,341 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,343 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,344 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,346 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,348 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,350 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,351 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,376 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,377 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,379 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,380 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,383 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,384 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,385 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,387 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,391 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,416 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,417 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,420 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,422 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,424 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,426 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,427 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,428 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,451 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,455 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,456 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,457 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,458 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,487 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,488 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,489 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,490 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,491 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,492 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,493 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,521 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,522 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,523 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,524 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,525 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,526 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,527 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,529 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,532 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,557 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,559 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,560 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,561 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,562 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,563 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,593 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,595 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,596 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,598 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,599 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,600 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,604 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,605 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,628 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,630 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,632 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,633 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,634 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,635 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,663 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,665 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,666 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,667 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,669 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,673 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,675 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,676 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,698 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,700 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,702 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,703 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:41,704 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:46,853 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:46,862 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:46,900 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:55,599 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:55,607 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:55,645 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,166 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,167 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,168 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,200 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,201 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,202 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,203 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,204 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,206 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,207 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,208 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,211 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,213 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,236 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,237 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,239 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,240 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,242 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,271 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,273 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,274 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,276 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,277 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,278 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,306 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,308 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,309 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,310 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,312 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,313 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,315 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,316 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,345 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,347 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,348 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,349 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,351 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,352 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,353 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,355 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,357 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,359 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,383 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,384 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,385 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,386 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,389 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,417 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,420 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,421 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,423 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,424 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,427 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,453 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,454 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,455 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,457 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,460 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,462 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,463 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,464 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,465 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,489 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,492 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,494 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,495 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,496 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,524 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,526 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,527 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,528 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,529 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,530 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,534 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,535 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,559 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,560 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,561 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:04:58,562 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:14,997 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,029 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,031 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,032 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,033 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,034 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,035 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,064 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,065 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,066 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,067 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,068 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,070 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,071 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,100 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,101 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,103 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,104 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,105 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,107 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,110 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,112 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,113 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,135 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,136 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,138 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,139 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,140 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,170 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,171 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,173 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,174 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,175 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,176 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,178 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,206 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,208 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,209 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,211 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,212 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,215 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,216 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,240 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,242 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,244 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,245 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,246 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,247 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,249 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,275 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,277 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,278 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,279 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,281 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,282 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,310 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,312 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,313 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,314 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,316 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,318 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,319 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,346 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,348 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,350 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,352 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,353 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,355 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,358 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,359 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,360 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,383 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,385 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,386 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,387 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,390 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,392 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:15,393 - ERROR -  Error en checksum, se desecha trama 
+2024-12-12 12:05:33,096 - INFO -  Generando gráfico: MS99_datos_20241212_150225.pdf
+2024-12-12 12:07:08,920 - INFO -  Fin del proceso.
+2024-12-12 12:07:15,930 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:13:29,037 - INFO -  ****************** Arranque del sistema *******************
+2024-12-12 12:13:35,220 - INFO -  Equipo seleccionado: SEOE-TEST
+2024-12-12 12:13:37,710 - INFO -  Cabezal seleccionado: Serie 805
+2024-12-12 12:13:41,556 - INFO -  Nivel de señal BT: 30 :-)
+2024-12-12 12:01:00,010 - INFO -  Se actualizó fecha y hora
+2024-12-12 12:01:00,714 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:01:06,723 - CRITICAL - Recibiendo y guardando datos en: MS99_datos_20241212_150106 ...
+2024-12-12 12:01:17,861 - INFO -  Generando gráfico: MS99_datos_20241212_150106.pdf
+2024-12-12 12:01:25,758 - INFO -  Fin del proceso.
+2024-12-12 12:01:32,768 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:02:04,255 - INFO -  ****************** Arranque del sistema *******************
+2024-12-12 12:02:13,122 - INFO -  Equipo seleccionado: SEOE-TEST
+2024-12-12 12:02:14,476 - INFO -  Cabezal seleccionado: Serie 805
+2024-12-12 12:02:17,660 - INFO -  Nivel de señal BT: 30 :-)
+2024-12-12 12:01:00,011 - INFO -  Se actualizó fecha y hora
+2024-12-12 12:01:01,820 - INFO -  Aguardando inicio del proceso de soldadura...
+2024-12-12 12:01:11,837 - CRITICAL - Recibiendo y guardando datos en: MS99_datos_20241212_150111 ...
+2024-12-12 12:01:11,848 - ERROR -  Error en checksum, se desecha trama: 1280
+2024-12-12 12:01:11,865 - ERROR -  Error en checksum, se desecha trama: 73
+2024-12-12 12:01:15,731 - ERROR -  Error en checksum, se desecha trama: 1343
+2024-12-12 12:01:15,733 - ERROR -  Error en checksum, se desecha trama: 1344
+2024-12-12 12:01:15,757 - ERROR -  Error en checksum, se desecha trama: 1345
+2024-12-12 12:01:15,760 - ERROR -  Error en checksum, se desecha trama: 1346
+2024-12-12 12:01:15,761 - ERROR -  Error en checksum, se desecha trama: 1347
+2024-12-12 12:01:15,763 - ERROR -  Error en checksum, se desecha trama: 1348
+2024-12-12 12:01:15,764 - ERROR -  Error en checksum, se desecha trama: 1349
+2024-12-12 12:01:15,792 - ERROR -  Error en checksum, se desecha trama: 1350
+2024-12-12 12:01:15,793 - ERROR -  Error en checksum, se desecha trama: 1351
+2024-12-12 12:01:15,795 - ERROR -  Error en checksum, se desecha trama: 1352
+2024-12-12 12:01:15,796 - ERROR -  Error en checksum, se desecha trama: 1353
+2024-12-12 12:01:15,798 - ERROR -  Error en checksum, se desecha trama: 1354
+2024-12-12 12:01:15,799 - ERROR -  Error en checksum, se desecha trama: 1355
+2024-12-12 12:01:15,800 - ERROR -  Error en checksum, se desecha trama: 1356
+2024-12-12 12:01:15,801 - ERROR -  Error en checksum, se desecha trama: 1357
+2024-12-12 12:01:15,827 - ERROR -  Error en checksum, se desecha trama: 1358
+2024-12-12 12:01:15,829 - ERROR -  Error en checksum, se desecha trama: 1359
+2024-12-12 12:01:15,830 - ERROR -  Error en checksum, se desecha trama: 1360
+2024-12-12 12:01:15,832 - ERROR -  Error en checksum, se desecha trama: 1361
+2024-12-12 12:01:15,834 - ERROR -  Error en checksum, se desecha trama: 1362
+2024-12-12 12:01:15,835 - ERROR -  Error en checksum, se desecha trama: 1363
+2024-12-12 12:01:15,837 - ERROR -  Error en checksum, se desecha trama: 1364
+2024-12-12 12:01:15,839 - ERROR -  Error en checksum, se desecha trama: 1365
+2024-12-12 12:01:15,862 - ERROR -  Error en checksum, se desecha trama: 1366
+2024-12-12 12:01:15,864 - ERROR -  Error en checksum, se desecha trama: 1367
+2024-12-12 12:01:15,865 - ERROR -  Error en checksum, se desecha trama: 1368
+2024-12-12 12:01:15,867 - ERROR -  Error en checksum, se desecha trama: 1369
+2024-12-12 12:01:15,868 - ERROR -  Error en checksum, se desecha trama: 1370
+2024-12-12 12:01:15,897 - ERROR -  Error en checksum, se desecha trama: 1371
+2024-12-12 12:01:15,899 - ERROR -  Error en checksum, se desecha trama: 1372
+2024-12-12 12:01:15,900 - ERROR -  Error en checksum, se desecha trama: 1373
+2024-12-12 12:01:15,902 - ERROR -  Error en checksum, se desecha trama: 1374
+2024-12-12 12:01:15,903 - ERROR -  Error en checksum, se desecha trama: 1375
+2024-12-12 12:01:15,904 - ERROR -  Error en checksum, se desecha trama: 1376
+2024-12-12 12:01:15,906 - ERROR -  Error en checksum, se desecha trama: 1377
+2024-12-12 12:01:15,907 - ERROR -  Error en checksum, se desecha trama: 1378
+2024-12-12 12:01:15,934 - ERROR -  Error en checksum, se desecha trama: 1379
+2024-12-12 12:01:15,935 - ERROR -  Error en checksum, se desecha trama: 1380
+2024-12-12 12:01:15,937 - ERROR -  Error en checksum, se desecha trama: 1381
+2024-12-12 12:01:15,938 - ERROR -  Error en checksum, se desecha trama: 1382
+2024-12-12 12:01:15,939 - ERROR -  Error en checksum, se desecha trama: 1383
+2024-12-12 12:01:15,944 - ERROR -  Error en checksum, se desecha trama: 1384
+2024-12-12 12:01:15,945 - ERROR -  Error en checksum, se desecha trama: 1385
+2024-12-12 12:01:15,969 - ERROR -  Error en checksum, se desecha trama: 1386
+2024-12-12 12:01:15,970 - ERROR -  Error en checksum, se desecha trama: 1387
+2024-12-12 12:01:15,972 - ERROR -  Error en checksum, se desecha trama: 1388
+2024-12-12 12:01:15,973 - ERROR -  Error en checksum, se desecha trama: 1389
+2024-12-12 12:01:15,974 - ERROR -  Error en checksum, se desecha trama: 1390
+2024-12-12 12:01:15,976 - ERROR -  Error en checksum, se desecha trama: 1391
+2024-12-12 12:01:16,004 - ERROR -  Error en checksum, se desecha trama: 1392
+2024-12-12 12:01:16,005 - ERROR -  Error en checksum, se desecha trama: 1393
+2024-12-12 12:01:16,006 - ERROR -  Error en checksum, se desecha trama: 1394
+2024-12-12 12:01:16,008 - ERROR -  Error en checksum, se desecha trama: 1395
+2024-12-12 12:01:16,009 - ERROR -  Error en checksum, se desecha trama: 1396
+2024-12-12 12:01:16,011 - ERROR -  Error en checksum, se desecha trama: 1397
+2024-12-12 12:01:16,039 - ERROR -  Error en checksum, se desecha trama: 1398
+2024-12-12 12:01:16,040 - ERROR -  Error en checksum, se desecha trama: 1399
+2024-12-12 12:01:16,042 - ERROR -  Error en checksum, se desecha trama: 1400
+2024-12-12 12:01:16,044 - ERROR -  Error en checksum, se desecha trama: 1401
+2024-12-12 12:01:16,045 - ERROR -  Error en checksum, se desecha trama: 1402
+2024-12-12 12:01:16,046 - ERROR -  Error en checksum, se desecha trama: 1403
+2024-12-12 12:01:16,072 - ERROR -  Error en checksum, se desecha trama: 1404
+2024-12-12 12:01:16,074 - ERROR -  Error en checksum, se desecha trama: 1405
+2024-12-12 12:01:16,076 - ERROR -  Error en checksum, se desecha trama: 1406
+2024-12-12 12:01:16,077 - ERROR -  Error en checksum, se desecha trama: 1407
+2024-12-12 12:01:16,079 - ERROR -  Error en checksum, se desecha trama: 1408
+2024-12-12 12:01:16,080 - ERROR -  Error en checksum, se desecha trama: 1409
+2024-12-12 12:01:16,081 - ERROR -  Error en checksum, se desecha trama: 1410
+2024-12-12 12:01:16,083 - ERROR -  Error en checksum, se desecha trama: 1411
+2024-12-12 12:01:16,084 - ERROR -  Error en checksum, se desecha trama: 1412
+2024-12-12 12:01:16,115 - ERROR -  Error en checksum, se desecha trama: 1413
+2024-12-12 12:01:16,117 - ERROR -  Error en checksum, se desecha trama: 1414
+2024-12-12 12:01:16,119 - ERROR -  Error en checksum, se desecha trama: 1415
+2024-12-12 12:01:16,120 - ERROR -  Error en checksum, se desecha trama: 1416
+2024-12-12 12:01:16,122 - ERROR -  Error en checksum, se desecha trama: 1417
+2024-12-12 12:01:16,123 - ERROR -  Error en checksum, se desecha trama: 1418
+2024-12-12 12:01:16,126 - ERROR -  Error en checksum, se desecha trama: 1419
+2024-12-12 12:01:16,128 - ERROR -  Error en checksum, se desecha trama: 1420
+2024-12-12 12:01:24,810 - ERROR -  Error en checksum, se desecha trama: 87
+2024-12-12 12:01:24,823 - ERROR -  Error en checksum, se desecha trama: 61452
+2024-12-12 12:01:31,185 - ERROR -  Error en checksum, se desecha trama: 0
+2024-12-12 12:01:31,196 - ERROR -  Error en checksum, se desecha trama: 21232
+2024-12-12 12:01:32,597 - ERROR -  Error en checksum, se desecha trama: 4680
+2024-12-12 12:01:32,599 - ERROR -  Error en checksum, se desecha trama: 4681
+2024-12-12 12:01:32,601 - ERROR -  Error en checksum, se desecha trama: 4682
+2024-12-12 12:01:32,602 - ERROR -  Error en checksum, se desecha trama: 4683
+2024-12-12 12:01:32,604 - ERROR -  Error en checksum, se desecha trama: 4684
+2024-12-12 12:01:32,605 - ERROR -  Error en checksum, se desecha trama: 4685
+2024-12-12 12:01:32,631 - ERROR -  Error en checksum, se desecha trama: 4686
+2024-12-12 12:01:32,633 - ERROR -  Error en checksum, se desecha trama: 4687
+2024-12-12 12:01:32,636 - ERROR -  Error en checksum, se desecha trama: 4688
+2024-12-12 12:01:32,638 - ERROR -  Error en checksum, se desecha trama: 4689
+2024-12-12 12:01:32,640 - ERROR -  Error en checksum, se desecha trama: 4690
+2024-12-12 12:01:32,641 - ERROR -  Error en checksum, se desecha trama: 4691
+2024-12-12 12:01:32,643 - ERROR -  Error en checksum, se desecha trama: 4692
+2024-12-12 12:01:32,644 - ERROR -  Error en checksum, se desecha trama: 4693
+2024-12-12 12:01:32,647 - ERROR -  Error en checksum, se desecha trama: 4694
+2024-12-12 12:01:32,676 - ERROR -  Error en checksum, se desecha trama: 4695
+2024-12-12 12:01:32,678 - ERROR -  Error en checksum, se desecha trama: 4696
+2024-12-12 12:01:32,681 - ERROR -  Error en checksum, se desecha trama: 4697
+2024-12-12 12:01:32,682 - ERROR -  Error en checksum, se desecha trama: 4698
+2024-12-12 12:01:32,683 - ERROR -  Error en checksum, se desecha trama: 4699
+2024-12-12 12:01:32,685 - ERROR -  Error en checksum, se desecha trama: 4700
+2024-12-12 12:01:32,718 - ERROR -  Error en checksum, se desecha trama: 4701
+2024-12-12 12:01:32,719 - ERROR -  Error en checksum, se desecha trama: 25088
+2024-12-12 12:01:32,729 - ERROR -  Error en checksum, se desecha trama: 4711
+2024-12-12 12:01:32,730 - ERROR -  Error en checksum, se desecha trama: 4712
+2024-12-12 12:01:32,761 - ERROR -  Error en checksum, se desecha trama: 4713
+2024-12-12 12:01:32,762 - ERROR -  Error en checksum, se desecha trama: 4714
+2024-12-12 12:01:32,764 - ERROR -  Error en checksum, se desecha trama: 4715
+2024-12-12 12:01:32,765 - ERROR -  Error en checksum, se desecha trama: 4716
+2024-12-12 12:01:32,769 - ERROR -  Error en checksum, se desecha trama: 4717
+2024-12-12 12:01:32,801 - ERROR -  Error en checksum, se desecha trama: 4718
+2024-12-12 12:01:32,803 - ERROR -  Error en checksum, se desecha trama: 4719
+2024-12-12 12:01:32,804 - ERROR -  Error en checksum, se desecha trama: 4720
+2024-12-12 12:01:32,806 - ERROR -  Error en checksum, se desecha trama: 4721
+2024-12-12 12:01:32,807 - ERROR -  Error en checksum, se desecha trama: 4722
+2024-12-12 12:01:32,809 - ERROR -  Error en checksum, se desecha trama: 4723
+2024-12-12 12:01:32,811 - ERROR -  Error en checksum, se desecha trama: 4724
+2024-12-12 12:01:32,812 - ERROR -  Error en checksum, se desecha trama: 4725
+2024-12-12 12:01:32,813 - ERROR -  Error en checksum, se desecha trama: 4726
+2024-12-12 12:01:32,815 - ERROR -  Error en checksum, se desecha trama: 4727
+2024-12-12 12:01:32,843 - ERROR -  Error en checksum, se desecha trama: 4728
+2024-12-12 12:01:32,844 - ERROR -  Error en checksum, se desecha trama: 4729
+2024-12-12 12:01:32,845 - ERROR -  Error en checksum, se desecha trama: 4730
+2024-12-12 12:01:32,848 - ERROR -  Error en checksum, se desecha trama: 4731
+2024-12-12 12:01:32,849 - ERROR -  Error en checksum, se desecha trama: 4732
+2024-12-12 12:01:32,851 - ERROR -  Error en checksum, se desecha trama: 4733
+2024-12-12 12:01:32,852 - ERROR -  Error en checksum, se desecha trama: 4734
+2024-12-12 12:01:32,853 - ERROR -  Error en checksum, se desecha trama: 4735
+2024-12-12 12:01:32,879 - ERROR -  Error en checksum, se desecha trama: 4736
+2024-12-12 12:01:32,881 - ERROR -  Error en checksum, se desecha trama: 4737
+2024-12-12 12:01:32,883 - ERROR -  Error en checksum, se desecha trama: 4738
+2024-12-12 12:01:32,884 - ERROR -  Error en checksum, se desecha trama: 4739
+2024-12-12 12:01:32,885 - ERROR -  Error en checksum, se desecha trama: 4740
+2024-12-12 12:01:32,887 - ERROR -  Error en checksum, se desecha trama: 4741
+2024-12-12 12:01:32,888 - ERROR -  Error en checksum, se desecha trama: 4742
+2024-12-12 12:01:32,890 - ERROR -  Error en checksum, se desecha trama: 4743
+2024-12-12 12:01:32,918 - ERROR -  Error en checksum, se desecha trama: 4744
+2024-12-12 12:01:32,919 - ERROR -  Error en checksum, se desecha trama: 4745
+2024-12-12 12:01:32,921 - ERROR -  Error en checksum, se desecha trama: 4746
+2024-12-12 12:01:32,922 - ERROR -  Error en checksum, se desecha trama: 4747
+2024-12-12 12:01:32,924 - ERROR -  Error en checksum, se desecha trama: 4748
+2024-12-12 12:01:32,927 - ERROR -  Error en checksum, se desecha trama: 4749
+2024-12-12 12:01:32,929 - ERROR -  Error en checksum, se desecha trama: 4750
+2024-12-12 12:01:32,930 - ERROR -  Error en checksum, se desecha trama: 4751
+2024-12-12 12:01:32,960 - ERROR -  Error en checksum, se desecha trama: 4752
+2024-12-12 12:01:32,962 - ERROR -  Error en checksum, se desecha trama: 4753
+2024-12-12 12:01:32,963 - ERROR -  Error en checksum, se desecha trama: 4754
+2024-12-12 12:01:32,965 - ERROR -  Error en checksum, se desecha trama: 4755
+2024-12-12 12:01:32,968 - ERROR -  Error en checksum, se desecha trama: 4756
+2024-12-12 12:01:32,970 - ERROR -  Error en checksum, se desecha trama: 4757
+2024-12-12 12:01:49,437 - ERROR -  Error en checksum, se desecha trama: 8017
+2024-12-12 12:01:49,439 - ERROR -  Error en checksum, se desecha trama: 8018
+2024-12-12 12:01:49,441 - ERROR -  Error en checksum, se desecha trama: 8019
+2024-12-12 12:01:49,443 - ERROR -  Error en checksum, se desecha trama: 8020
+2024-12-12 12:01:49,445 - ERROR -  Error en checksum, se desecha trama: 8021
+2024-12-12 12:01:49,447 - ERROR -  Error en checksum, se desecha trama: 8022
+2024-12-12 12:01:49,449 - ERROR -  Error en checksum, se desecha trama: 8023
+2024-12-12 12:01:49,450 - ERROR -  Error en checksum, se desecha trama: 8024
+2024-12-12 12:01:49,473 - ERROR -  Error en checksum, se desecha trama: 8025
+2024-12-12 12:01:49,474 - ERROR -  Error en checksum, se desecha trama: 8026
+2024-12-12 12:01:49,476 - ERROR -  Error en checksum, se desecha trama: 8027
+2024-12-12 12:01:49,477 - ERROR -  Error en checksum, se desecha trama: 8028
+2024-12-12 12:01:49,481 - ERROR -  Error en checksum, se desecha trama: 8029
+2024-12-12 12:01:49,484 - ERROR -  Error en checksum, se desecha trama: 8030
+2024-12-12 12:01:49,508 - ERROR -  Error en checksum, se desecha trama: 8031
+2024-12-12 12:01:49,512 - ERROR -  Error en checksum, se desecha trama: 8032
+2024-12-12 12:01:49,514 - ERROR -  Error en checksum, se desecha trama: 8033
+2024-12-12 12:01:49,515 - ERROR -  Error en checksum, se desecha trama: 8034
+2024-12-12 12:01:49,516 - ERROR -  Error en checksum, se desecha trama: 8035
+2024-12-12 12:01:49,518 - ERROR -  Error en checksum, se desecha trama: 8036
+2024-12-12 12:01:49,519 - ERROR -  Error en checksum, se desecha trama: 8037
+2024-12-12 12:01:49,520 - ERROR -  Error en checksum, se desecha trama: 8038
+2024-12-12 12:01:49,544 - ERROR -  Error en checksum, se desecha trama: 8039
+2024-12-12 12:01:49,545 - ERROR -  Error en checksum, se desecha trama: 8040
+2024-12-12 12:01:49,546 - ERROR -  Error en checksum, se desecha trama: 8041
+2024-12-12 12:01:49,548 - ERROR -  Error en checksum, se desecha trama: 8042
+2024-12-12 12:01:49,549 - ERROR -  Error en checksum, se desecha trama: 8043
+2024-12-12 12:01:49,551 - ERROR -  Error en checksum, se desecha trama: 8044
+2024-12-12 12:01:49,554 - ERROR -  Error en checksum, se desecha trama: 8045
+2024-12-12 12:01:49,579 - ERROR -  Error en checksum, se desecha trama: 8046
+2024-12-12 12:01:49,580 - ERROR -  Error en checksum, se desecha trama: 8047
+2024-12-12 12:01:49,581 - ERROR -  Error en checksum, se desecha trama: 8048
+2024-12-12 12:01:49,583 - ERROR -  Error en checksum, se desecha trama: 8049
+2024-12-12 12:01:49,584 - ERROR -  Error en checksum, se desecha trama: 8050
+2024-12-12 12:01:49,586 - ERROR -  Error en checksum, se desecha trama: 8051
+2024-12-12 12:01:49,614 - ERROR -  Error en checksum, se desecha trama: 8052
+2024-12-12 12:01:49,615 - ERROR -  Error en checksum, se desecha trama: 8053
+2024-12-12 12:01:49,617 - ERROR -  Error en checksum, se desecha trama: 8054
+2024-12-12 12:01:49,618 - ERROR -  Error en checksum, se desecha trama: 8055
+2024-12-12 12:01:49,620 - ERROR -  Error en checksum, se desecha trama: 8056
+2024-12-12 12:01:49,621 - ERROR -  Error en checksum, se desecha trama: 8057
+2024-12-12 12:01:49,626 - ERROR -  Error en checksum, se desecha trama: 8058
+2024-12-12 12:01:49,628 - ERROR -  Error en checksum, se desecha trama: 8059
+2024-12-12 12:01:49,651 - ERROR -  Error en checksum, se desecha trama: 8060
+2024-12-12 12:01:49,653 - ERROR -  Error en checksum, se desecha trama: 8061
+2024-12-12 12:01:49,654 - ERROR -  Error en checksum, se desecha trama: 8062
+2024-12-12 12:01:49,655 - ERROR -  Error en checksum, se desecha trama: 8063
+2024-12-12 12:01:49,657 - ERROR -  Error en checksum, se desecha trama: 8064
+2024-12-12 12:01:49,658 - ERROR -  Error en checksum, se desecha trama: 8065
+2024-12-12 12:01:49,688 - ERROR -  Error en checksum, se desecha trama: 8066
+2024-12-12 12:01:49,689 - ERROR -  Error en checksum, se desecha trama: 8067
+2024-12-12 12:01:49,690 - ERROR -  Error en checksum, se desecha trama: 8068
+2024-12-12 12:01:49,692 - ERROR -  Error en checksum, se desecha trama: 8069
+2024-12-12 12:01:49,693 - ERROR -  Error en checksum, se desecha trama: 8070
+2024-12-12 12:01:49,695 - ERROR -  Error en checksum, se desecha trama: 8071
+2024-12-12 12:01:49,696 - ERROR -  Error en checksum, se desecha trama: 8072
+2024-12-12 12:01:49,698 - ERROR -  Error en checksum, se desecha trama: 8073
+2024-12-12 12:01:49,724 - ERROR -  Error en checksum, se desecha trama: 8074
+2024-12-12 12:01:49,726 - ERROR -  Error en checksum, se desecha trama: 8075
+2024-12-12 12:01:49,727 - ERROR -  Error en checksum, se desecha trama: 8076
+2024-12-12 12:01:49,729 - ERROR -  Error en checksum, se desecha trama: 8077
+2024-12-12 12:01:49,730 - ERROR -  Error en checksum, se desecha trama: 8078
+2024-12-12 12:01:49,731 - ERROR -  Error en checksum, se desecha trama: 8079
+2024-12-12 12:01:49,733 - ERROR -  Error en checksum, se desecha trama: 8080
+2024-12-12 12:01:49,760 - ERROR -  Error en checksum, se desecha trama: 8081
+2024-12-12 12:01:49,762 - ERROR -  Error en checksum, se desecha trama: 8082
+2024-12-12 12:01:49,763 - ERROR -  Error en checksum, se desecha trama: 8083
+2024-12-12 12:01:49,764 - ERROR -  Error en checksum, se desecha trama: 8084
+2024-12-12 12:01:49,766 - ERROR -  Error en checksum, se desecha trama: 8085
+2024-12-12 12:01:49,767 - ERROR -  Error en checksum, se desecha trama: 8086
+2024-12-12 12:01:49,795 - ERROR -  Error en checksum, se desecha trama: 8087
+2024-12-12 12:01:49,797 - ERROR -  Error en checksum, se desecha trama: 8088
+2024-12-12 12:01:49,798 - ERROR -  Error en checksum, se desecha trama: 8089
+2024-12-12 12:01:49,800 - ERROR -  Error en checksum, se desecha trama: 8090
+2024-12-12 12:01:49,801 - ERROR -  Error en checksum, se desecha trama: 8091
+2024-12-12 12:01:49,803 - ERROR -  Error en checksum, se desecha trama: 8092
+2024-12-12 12:01:49,805 - ERROR -  Error en checksum, se desecha trama: 8093
+2024-12-12 12:01:49,806 - ERROR -  Error en checksum, se desecha trama: 8094
+2024-12-12 12:01:49,831 - ERROR -  Error en checksum, se desecha trama: 8095
+2024-12-12 12:02:06,267 - ERROR -  Error en checksum, se desecha trama: 11355
+2024-12-12 12:02:06,268 - ERROR -  Error en checksum, se desecha trama: 11356
+2024-12-12 12:02:06,300 - ERROR -  Error en checksum, se desecha trama: 11357
+2024-12-12 12:02:06,302 - ERROR -  Error en checksum, se desecha trama: 11358
+2024-12-12 12:02:06,304 - ERROR -  Error en checksum, se desecha trama: 11359
+2024-12-12 12:02:06,306 - ERROR -  Error en checksum, se desecha trama: 11360
+2024-12-12 12:02:06,309 - ERROR -  Error en checksum, se desecha trama: 11361
+2024-12-12 12:02:06,311 - ERROR -  Error en checksum, se desecha trama: 11362
+2024-12-12 12:02:06,313 - ERROR -  Error en checksum, se desecha trama: 11363
+2024-12-12 12:02:06,315 - ERROR -  Error en checksum, se desecha trama: 11364
+2024-12-12 12:02:06,337 - ERROR -  Error en checksum, se desecha trama: 11365
+2024-12-12 12:02:06,338 - ERROR -  Error en checksum, se desecha trama: 11366
+2024-12-12 12:02:06,339 - ERROR -  Error en checksum, se desecha trama: 11367
+2024-12-12 12:02:06,341 - ERROR -  Error en checksum, se desecha trama: 11368
+2024-12-12 12:02:06,342 - ERROR -  Error en checksum, se desecha trama: 11369
+2024-12-12 12:02:06,343 - ERROR -  Error en checksum, se desecha trama: 11370
+2024-12-12 12:02:06,345 - ERROR -  Error en checksum, se desecha trama: 11371
+2024-12-12 12:02:06,347 - ERROR -  Error en checksum, se desecha trama: 11372
+2024-12-12 12:02:06,373 - ERROR -  Error en checksum, se desecha trama: 11373
+2024-12-12 12:02:06,374 - ERROR -  Error en checksum, se desecha trama: 11374
+2024-12-12 12:02:06,375 - ERROR -  Error en checksum, se desecha trama: 11375
+2024-12-12 12:02:06,377 - ERROR -  Error en checksum, se desecha trama: 11376
+2024-12-12 12:02:06,379 - ERROR -  Error en checksum, se desecha trama: 11377
+2024-12-12 12:02:06,380 - ERROR -  Error en checksum, se desecha trama: 11378
+2024-12-12 12:02:06,382 - ERROR -  Error en checksum, se desecha trama: 11379
+2024-12-12 12:02:06,414 - ERROR -  Error en checksum, se desecha trama: 11380
+2024-12-12 12:02:06,415 - ERROR -  Error en checksum, se desecha trama: 11381
+2024-12-12 12:02:06,417 - ERROR -  Error en checksum, se desecha trama: 11382
+2024-12-12 12:02:06,418 - ERROR -  Error en checksum, se desecha trama: 11383
+2024-12-12 12:02:06,420 - ERROR -  Error en checksum, se desecha trama: 11384
+2024-12-12 12:02:06,422 - ERROR -  Error en checksum, se desecha trama: 11385
+2024-12-12 12:02:06,424 - ERROR -  Error en checksum, se desecha trama: 11386
+2024-12-12 12:02:06,425 - ERROR -  Error en checksum, se desecha trama: 11387
+2024-12-12 12:02:06,455 - ERROR -  Error en checksum, se desecha trama: 11388
+2024-12-12 12:02:06,456 - ERROR -  Error en checksum, se desecha trama: 11389
+2024-12-12 12:02:06,457 - ERROR -  Error en checksum, se desecha trama: 11390
+2024-12-12 12:02:06,459 - ERROR -  Error en checksum, se desecha trama: 11391
+2024-12-12 12:02:06,460 - ERROR -  Error en checksum, se desecha trama: 11392
+2024-12-12 12:02:06,461 - ERROR -  Error en checksum, se desecha trama: 11393
+2024-12-12 12:02:06,465 - ERROR -  Error en checksum, se desecha trama: 11394
+2024-12-12 12:02:06,467 - ERROR -  Error en checksum, se desecha trama: 11395
+2024-12-12 12:02:06,470 - ERROR -  Error en checksum, se desecha trama: 11396
+2024-12-12 12:02:06,472 - ERROR -  Error en checksum, se desecha trama: 11397
+2024-12-12 12:02:06,478 - ERROR -  Error en checksum, se desecha trama: 11398
+2024-12-12 12:02:06,480 - ERROR -  Error en checksum, se desecha trama: 11399
+2024-12-12 12:02:06,513 - ERROR -  Error en checksum, se desecha trama: 11400
+2024-12-12 12:02:06,514 - ERROR -  Error en checksum, se desecha trama: 11401
+2024-12-12 12:02:06,516 - ERROR -  Error en checksum, se desecha trama: 11402
+2024-12-12 12:02:06,517 - ERROR -  Error en checksum, se desecha trama: 11403
+2024-12-12 12:02:06,518 - ERROR -  Error en checksum, se desecha trama: 11404
+2024-12-12 12:02:06,520 - ERROR -  Error en checksum, se desecha trama: 11405
+2024-12-12 12:02:06,521 - ERROR -  Error en checksum, se desecha trama: 11406
+2024-12-12 12:02:06,523 - ERROR -  Error en checksum, se desecha trama: 11407
+2024-12-12 12:02:06,553 - ERROR -  Error en checksum, se desecha trama: 11408
+2024-12-12 12:02:06,554 - ERROR -  Error en checksum, se desecha trama: 11409
+2024-12-12 12:02:06,557 - ERROR -  Error en checksum, se desecha trama: 11410
+2024-12-12 12:02:06,558 - ERROR -  Error en checksum, se desecha trama: 11411
+2024-12-12 12:02:06,559 - ERROR -  Error en checksum, se desecha trama: 11412
+2024-12-12 12:02:06,561 - ERROR -  Error en checksum, se desecha trama: 11413
+2024-12-12 12:02:06,562 - ERROR -  Error en checksum, se desecha trama: 11414
+2024-12-12 12:02:06,590 - ERROR -  Error en checksum, se desecha trama: 11415
+2024-12-12 12:02:06,591 - ERROR -  Error en checksum, se desecha trama: 11416
+2024-12-12 12:02:06,593 - ERROR -  Error en checksum, se desecha trama: 11417
+2024-12-12 12:02:06,594 - ERROR -  Error en checksum, se desecha trama: 11418
+2024-12-12 12:02:06,595 - ERROR -  Error en checksum, se desecha trama: 11419
+2024-12-12 12:02:06,596 - ERROR -  Error en checksum, se desecha trama: 11420
+2024-12-12 12:02:06,598 - ERROR -  Error en checksum, se desecha trama: 11421
+2024-12-12 12:02:06,602 - ERROR -  Error en checksum, se desecha trama: 11422
+2024-12-12 12:02:06,629 - ERROR -  Error en checksum, se desecha trama: 11423
+2024-12-12 12:02:06,631 - ERROR -  Error en checksum, se desecha trama: 11424
+2024-12-12 12:02:06,634 - ERROR -  Error en checksum, se desecha trama: 11425
+2024-12-12 12:02:06,636 - ERROR -  Error en checksum, se desecha trama: 11426
+2024-12-12 12:02:06,637 - ERROR -  Error en checksum, se desecha trama: 11427
+2024-12-12 12:02:06,639 - ERROR -  Error en checksum, se desecha trama: 11428
+2024-12-12 12:02:06,640 - ERROR -  Error en checksum, se desecha trama: 11429
+2024-12-12 12:02:06,642 - ERROR -  Error en checksum, se desecha trama: 11430
+2024-12-12 12:02:06,666 - ERROR -  Error en checksum, se desecha trama: 11431
+2024-12-12 12:02:06,669 - ERROR -  Error en checksum, se desecha trama: 11432
+2024-12-12 12:02:23,097 - ERROR -  Error en checksum, se desecha trama: 14692
+2024-12-12 12:02:23,128 - ERROR -  Error en checksum, se desecha trama: 14693
+2024-12-12 12:02:23,129 - ERROR -  Error en checksum, se desecha trama: 14694
+2024-12-12 12:02:23,132 - ERROR -  Error en checksum, se desecha trama: 14695
+2024-12-12 12:02:23,134 - ERROR -  Error en checksum, se desecha trama: 14696
+2024-12-12 12:02:23,135 - ERROR -  Error en checksum, se desecha trama: 14697
+2024-12-12 12:02:23,140 - ERROR -  Error en checksum, se desecha trama: 14698
+2024-12-12 12:02:23,143 - ERROR -  Error en checksum, se desecha trama: 14699
+2024-12-12 12:02:23,173 - ERROR -  Error en checksum, se desecha trama: 14700
+2024-12-12 12:02:23,176 - ERROR -  Error en checksum, se desecha trama: 14701
+2024-12-12 12:02:23,179 - ERROR -  Error en checksum, se desecha trama: 14702
+2024-12-12 12:02:23,180 - ERROR -  Error en checksum, se desecha trama: 14703
+2024-12-12 12:02:23,181 - ERROR -  Error en checksum, se desecha trama: 14704
+2024-12-12 12:02:23,183 - ERROR -  Error en checksum, se desecha trama: 14705
+2024-12-12 12:02:23,184 - ERROR -  Error en checksum, se desecha trama: 14706
+2024-12-12 12:02:23,186 - ERROR -  Error en checksum, se desecha trama: 14707
+2024-12-12 12:02:23,210 - ERROR -  Error en checksum, se desecha trama: 14708
+2024-12-12 12:02:23,213 - ERROR -  Error en checksum, se desecha trama: 14709
+2024-12-12 12:02:23,215 - ERROR -  Error en checksum, se desecha trama: 14710
+2024-12-12 12:02:23,216 - ERROR -  Error en checksum, se desecha trama: 14711
+2024-12-12 12:02:23,218 - ERROR -  Error en checksum, se desecha trama: 14712
+2024-12-12 12:02:23,219 - ERROR -  Error en checksum, se desecha trama: 14713
+2024-12-12 12:02:23,220 - ERROR -  Error en checksum, se desecha trama: 14714
+2024-12-12 12:02:23,222 - ERROR -  Error en checksum, se desecha trama: 14715
+2024-12-12 12:02:23,245 - ERROR -  Error en checksum, se desecha trama: 14716
+2024-12-12 12:02:23,248 - ERROR -  Error en checksum, se desecha trama: 14717
+2024-12-12 12:02:23,249 - ERROR -  Error en checksum, se desecha trama: 14718
+2024-12-12 12:02:23,251 - ERROR -  Error en checksum, se desecha trama: 14719
+2024-12-12 12:02:23,252 - ERROR -  Error en checksum, se desecha trama: 14720
+2024-12-12 12:02:23,254 - ERROR -  Error en checksum, se desecha trama: 14721
+2024-12-12 12:02:23,255 - ERROR -  Error en checksum, se desecha trama: 14722
+2024-12-12 12:02:23,280 - ERROR -  Error en checksum, se desecha trama: 14723
+2024-12-12 12:02:23,282 - ERROR -  Error en checksum, se desecha trama: 14724
+2024-12-12 12:02:23,283 - ERROR -  Error en checksum, se desecha trama: 14725
+2024-12-12 12:02:23,285 - ERROR -  Error en checksum, se desecha trama: 14726
+2024-12-12 12:02:23,286 - ERROR -  Error en checksum, se desecha trama: 14727
+2024-12-12 12:02:23,288 - ERROR -  Error en checksum, se desecha trama: 14728
+2024-12-12 12:02:23,316 - ERROR -  Error en checksum, se desecha trama: 14729
+2024-12-12 12:02:23,317 - ERROR -  Error en checksum, se desecha trama: 14730
+2024-12-12 12:02:23,318 - ERROR -  Error en checksum, se desecha trama: 14731
+2024-12-12 12:02:23,320 - ERROR -  Error en checksum, se desecha trama: 14732
+2024-12-12 12:02:23,321 - ERROR -  Error en checksum, se desecha trama: 14733
+2024-12-12 12:02:23,323 - ERROR -  Error en checksum, se desecha trama: 14734
+2024-12-12 12:02:23,324 - ERROR -  Error en checksum, se desecha trama: 14735
+2024-12-12 12:02:23,325 - ERROR -  Error en checksum, se desecha trama: 14736
+2024-12-12 12:02:23,326 - ERROR -  Error en checksum, se desecha trama: 14737
+2024-12-12 12:02:23,351 - ERROR -  Error en checksum, se desecha trama: 14738
+2024-12-12 12:02:23,352 - ERROR -  Error en checksum, se desecha trama: 14739
+2024-12-12 12:02:23,353 - ERROR -  Error en checksum, se desecha trama: 14740
+2024-12-12 12:02:23,355 - ERROR -  Error en checksum, se desecha trama: 14741
+2024-12-12 12:02:23,356 - ERROR -  Error en checksum, se desecha trama: 14742
+2024-12-12 12:02:23,358 - ERROR -  Error en checksum, se desecha trama: 14743
+2024-12-12 12:02:23,385 - ERROR -  Error en checksum, se desecha trama: 14744
+2024-12-12 12:02:23,387 - ERROR -  Error en checksum, se desecha trama: 14745
+2024-12-12 12:02:23,388 - ERROR -  Error en checksum, se desecha trama: 14746
+2024-12-12 12:02:23,390 - ERROR -  Error en checksum, se desecha trama: 14747
+2024-12-12 12:02:23,391 - ERROR -  Error en checksum, se desecha trama: 14748
+2024-12-12 12:02:23,420 - ERROR -  Error en checksum, se desecha trama: 14749
+2024-12-12 12:02:23,422 - ERROR -  Error en checksum, se desecha trama: 14750
+2024-12-12 12:02:23,423 - ERROR -  Error en checksum, se desecha trama: 14751
+2024-12-12 12:02:23,425 - ERROR -  Error en checksum, se desecha trama: 14752
+2024-12-12 12:02:23,426 - ERROR -  Error en checksum, se desecha trama: 14753
+2024-12-12 12:02:23,427 - ERROR -  Error en checksum, se desecha trama: 14754
+2024-12-12 12:02:23,428 - ERROR -  Error en checksum, se desecha trama: 14755
+2024-12-12 12:02:23,429 - ERROR -  Error en checksum, se desecha trama: 14756
+2024-12-12 12:02:23,433 - ERROR -  Error en checksum, se desecha trama: 14757
+2024-12-12 12:02:23,435 - ERROR -  Error en checksum, se desecha trama: 14758
+2024-12-12 12:02:23,465 - ERROR -  Error en checksum, se desecha trama: 14759
+2024-12-12 12:02:23,467 - ERROR -  Error en checksum, se desecha trama: 14760
+2024-12-12 12:02:23,469 - ERROR -  Error en checksum, se desecha trama: 14761
+2024-12-12 12:02:23,470 - ERROR -  Error en checksum, se desecha trama: 14762
+2024-12-12 12:02:23,472 - ERROR -  Error en checksum, se desecha trama: 14763
+2024-12-12 12:02:23,473 - ERROR -  Error en checksum, se desecha trama: 14764
+2024-12-12 12:02:23,474 - ERROR -  Error en checksum, se desecha trama: 14765
+2024-12-12 12:02:23,476 - ERROR -  Error en checksum, se desecha trama: 14766
+2024-12-12 12:02:23,503 - ERROR -  Error en checksum, se desecha trama: 14767
+2024-12-12 12:02:23,504 - ERROR -  Error en checksum, se desecha trama: 14768
+2024-12-12 12:02:23,506 - ERROR -  Error en checksum, se desecha trama: 14769
+2024-12-12 12:02:29,561 - INFO -  Generando gráfico: MS99_datos_20241212_150111.pdf
